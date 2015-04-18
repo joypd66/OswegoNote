@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Index>
+    <Citation>
+        <Book>
+            <Name>A Wavelet Tour of Signal Processing</Name>
+            <Publisher>Academic Press</Publisher>
+            <PublicationDate>01/01/2009</PublicationDate>
+            <PublicationPlace>Burlington,MA</PublicationPlace>
+            <Authors>
+                <author>Stephanie M Mallot</author>
+    		</Authors>
+            <Keywords>
+                <Keyword>DSP</Keyword>
+                <Keyword>Wavelets</Keyword>
+                <Keyword>Sparse Data</Keyword>
+    		</Keywords>
+    	</Book>
+    </Citation>
+<Citation>
+        <Book>
+            <Name>the cat in the hat</Name>
+            <Publisher>Patricks Press</Publisher>
+            <PublicationDate>01/25/2020</PublicationDate>
+            <PublicationPlace>Boston,MA</PublicationPlace>
+            <Authors>
+                <author>Kevin Mark Joy</author>
+		<author>Patrick Joy</author>
+		<author>Joy</author>
+    		</Authors>
+            <Keywords>
+                <Keyword>Class</Keyword>
+                <Keyword>Try/Hard</Keyword>
+                <Keyword>Chump Data</Keyword>
+		<Keyword>Change Data</Keyword>
+    		</Keywords>
+    	</Book>
+    </Citation>
+ 	<FormattingStyle>IEEE</FormattingStyle>
+    	<FilePath>/home/pjoy/test.html</FilePath>
+</Index>

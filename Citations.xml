@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Index>
+    <Citation>
+        <Book>
+            <Name>A Wavelet Tour of Signal Processing</Name>
+            <Publisher>Academic Press</Publisher>
+            <PublicationDate>01/01/2009</PublicationDate>
+            <PublicationPlace>Burlington,MA</PublicationPlace>
+            <Authors>
+                <author>Stephanie M Mallot</author>
+    		</Authors>
+            <Keywords>
+                <Keyword>DSP</Keyword>
+                <Keyword>Wavelets</Keyword>
+                <Keyword>Sparse Data</Keyword>
+    		</Keywords>
+    	</Book>
+    </Citation>
+    <Citation>
+        <JournalArticle>
+            <Name>The attractions of stupidity</Name>
+            <TitleOfJournal>The St. Croix Review</TitleOfJournal>
+            <PublicationDate>October, 2002</PublicationDate>
+            <volNumber>30</volNumber>
+            <IssueNumber>2</IssueNumber>
+            <Authors>
+                <author>Harry Hank Hirsh</author>
+                <author>Mark Harold Coen</author>
+                <author>Michael Charles Mozer</author>
+    		</Authors>
+            <Pages StartPage="6" EndPage="10"/>
+            <Keywords>
+                <Keyword>Psychology</Keyword>
+                <Keyword>Sociology</Keyword>
+                <Keyword>Intelligence</Keyword>
+                <Keyword>Sexuality</Keyword>
+    		</Keywords>
+    	</JournalArticle>
+    </Citation>
+    <Citation>
+        <Unpublished>
+            <Name>Working in the classroom to balance intellectual and emotional needs of at-risk students</Name>
+            <Authors>
+                <author>Geoffrey Fred Green</author>
+    		</Authors>
+            <Keywords>
+                <Keyword>Special Needs</Keyword>
+                <Keyword>Education</Keyword>
+              <Keyword>Sociology</Keyword>
+                <Keyword>Emotional Health</Keyword>
+    		</Keywords>
+    	</Unpublished>
+    </Citation>
+    <Citation>
+        <ConferenceProceedings>
+            <Name>5,8 Analogies per hour: A designer's view on analogical reasoning</Name>
+            <Publisher>Kluwer Academic Publishers</Publisher>
+            <ConferenceLocation>Cambridge, UK</ConferenceLocation>
+            <TitleOfConferenceproceeding>IEEE COnference on Computing</TitleOfConferenceproceeding>
+            <ConferenceYear>2002</ConferenceYear>
+            <Editor>John F. Kennedy</Editor>
+            <Pages StartPage="285" EndPage="303"/>
+            <Authors>
+                <author>Peter G. Leclercq</author>
+                <author>Anthony Francis Heylighen</author>
+    		</Authors>
+            <Keywords>
+                <Keyword>A.I.</Keyword>
+                <Keyword>Computing</Keyword>
+            </Keywords>
+        </ConferenceProceedings>
+    </Citation>
+     <Citation>
+        <ConferenceProceedings>
+            <Name>Invited paper: Adapting algorithms for hardware implementation</Name>
+            <Publisher>Computer Vision and Pattern Recognition Workshops (CVPRW)</Publisher>
+            <ConferenceLocation>Melbourne, Australia</ConferenceLocation>
+            <TitleOfConferenceproceeding> IEEE Computer Society Conference on Computer Vision</TitleOfConferenceproceeding>
+            <ConferenceYear>2011</ConferenceYear>
+            <Editor>C. T. Johnson</Editor>
+            <Pages StartPage="40" EndPage="63"/>
+            <Authors>
+                <author>D. G. Bailey</author>
+            </Authors>
+            <Keywords>
+                <Keyword>FPGA</Keyword>
+                <Keyword>Computer Vision</Keyword>
+              <Keyword>Computing</Keyword>
+            </Keywords>
+        </ConferenceProceedings>
+    </Citation>
+    <Citation>
+        <ConferenceProceedings>
+            <Name>Best-effort parallel execution framework for recognition and mining applications</Name>
+            <Publisher>Parallel and Distributed Processing</Publisher>
+            <ConferenceLocation>Austin,TX</ConferenceLocation>
+            <TitleOfConferenceproceeding> IEEE International Conference on Parallel and Distributed Processing</TitleOfConferenceproceeding>
+            <ConferenceYear>2009</ConferenceYear>
+            <Editor>S. M. Mann</Editor>
+            <Pages StartPage="59" EndPage="68"/>
+            <Authors>
+                <author>J. S. Meng</author>
+                <author>S. D. Chakradhar</author>
+                <author>A. S. Raghunathan</author>
+            </Authors>
+            <Keywords>
+                <Keyword>FPGA</Keyword>
+                <Keyword>GPU</Keyword>
+                <Keyword>Data Mining</Keyword>
+                </Keywords>
+        </ConferenceProceedings>
+    </Citation>
+  <Citation>
+    <Book>
+      <Name>FPGA implementations of neural networks</Name>
+      <Publisher>Springer Verlag</Publisher>
+      <PublicationDate>01/01/2006</PublicationDate>
+      <PublicationPlace>Dordrecht,The Netherlands</PublicationPlace>
+      <Authors>
+        <author>J. C. Rajapakse</author>
+        <author>A. R. Ormondi</author>
+      </Authors>
+      <Keywords>
+        <Keyword>FPGA</Keyword>
+        <Keyword>A.I.</Keyword>
+        <Keyword>ANN</Keyword>
+      </Keywords>
+    </Book>
+  </Citation>
+  <Citation>
+    <JournalArticle>
+      <Name>Molecular structure of nucleic acids</Name>
+      <TitleOfJournal>Nature</TitleOfJournal>
+      <PublicationDate>October, 1953</PublicationDate>
+      <volNumber>171</volNumber>
+      <IssueNumber>4356</IssueNumber>
+      <Authors>
+        <author>J. D. Watson</author>
+        <author>F. H. Crick</author>
+      </Authors>
+      <Pages StartPage="447" EndPage="451"/>
+      <Keywords>
+        <Keyword>DNA</Keyword>
+        <Keyword>Genetics</Keyword>
+        <Keyword>Intelligence</Keyword>
+        <Keyword>Sexuality</Keyword>
+      </Keywords>
+    </JournalArticle>
+  </Citation>
+  <Citation>
+  <JournalArticle>
+    <Name>Energy recovery linac (ERL) coherent hard x-ray sources</Name>
+    <TitleOfJournal>New Journal of Physics</TitleOfJournal>
+    <PublicationDate>Decemeber, 2010</PublicationDate>
+    <volNumber>12</volNumber>
+    <IssueNumber>0</IssueNumber>
+    <Authors>
+      <author>D. H. Bilderback</author>
+      <author>S. M. Grunerk</author>
+    </Authors>
+    <Pages StartPage="035011" EndPage="035019"/>
+    <Keywords>
+      <Keyword>X-Ray</Keyword>
+      <Keyword>Coherence</Keyword>
+      <Keyword>Sparse Data</Keyword>
+    </Keywords>
+  </JournalArticle>
+  </Citation>
+  <Citation>
+    <ConferenceProceedings>
+      <Name>Pixel array detector for the capture of femtosecond duration x-ray images</Name>
+      <Publisher>Proceedings of SPIE</Publisher>
+      <ConferenceLocation>San Jose,CA</ConferenceLocation>
+      <TitleOfConferenceproceeding>SPIE Conference on Optical Processing</TitleOfConferenceproceeding>
+      <ConferenceYear>2007</ConferenceYear>
+      <Editor>S. S. Klanner</Editor>
+      <Pages StartPage="73" EndPage="88"/>
+      <Authors>
+        <author>H. T. Philipp</author>
+        <author>M. W. Tate</author>
+        <author>S. M. Gruner</author>
+      </Authors>
+      <Keywords>
+        <Keyword>X-Ray</Keyword>
+        <Keyword>PAD</Keyword>
+        <Keyword>FPGA</Keyword>
+      </Keywords>
+    </ConferenceProceedings>
+  </Citation>
+  <Citation>
+    <JournalArticle>
+      <Name>Coherent methods in the X-ray sciences</Name>
+      <TitleOfJournal>Advances in Physics</TitleOfJournal>
+      <PublicationDate>June, 2010</PublicationDate>
+      <volNumber>59</volNumber>
+      <IssueNumber>1</IssueNumber>
+      <Authors>
+        <author>K. A. Nugent</author>
+      </Authors>
+      <Pages StartPage="1" EndPage="99"/>
+      <Keywords>
+        <Keyword>X-Ray</Keyword>
+        <Keyword>Coherence</Keyword>
+        <Keyword>Sparse Data</Keyword>
+      </Keywords>
+    </JournalArticle>
+  </Citation>
+  <Citation>
+    <ConferenceProceedings>
+      <Name>An efficient implementation of Smith Waterman algorithm on GPU using CUDA, for massively parallel scanning of sequence databases</Name>
+      <Publisher>Parallel and Distributed Processing</Publisher>
+      <ConferenceLocation>Austin,TX</ConferenceLocation>
+      <TitleOfConferenceproceeding> IEEE International Conference on Parallel and Distributed Processing</TitleOfConferenceproceeding>
+      <ConferenceYear>2009</ConferenceYear>
+      <Editor>S. M. Mann</Editor>
+      <Pages StartPage="85" EndPage="102"/>
+      <Authors>
+        <author>L. L. Ligowski</author>
+        <author>W. A. Rudnicki</author>
+      </Authors>
+      <Keywords>
+        <Keyword>Sparse Data</Keyword>
+        <Keyword>DNA</Keyword>
+        <Keyword>GPU</Keyword>
+        <Keyword>Data Mining</Keyword>
+      </Keywords>
+    </ConferenceProceedings>
+  </Citation>
+    <FormattingStyle>IEEE</FormattingStyle>
+    <FilePath>/home/pjoy/test.html</FilePath>
+</Index>
